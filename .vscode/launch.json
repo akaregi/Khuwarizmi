@@ -14,7 +14,7 @@
         "ts-node/register"
       ],
       "program": "${file}",
-      "console": "internalConsole"
+      "console": "integratedTerminal"
     }
   ]
 }
